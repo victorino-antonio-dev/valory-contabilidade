@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://valory.ao/sitemap.xml
+Host: https://valory.ao
