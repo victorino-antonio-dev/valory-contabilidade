@@ -11,6 +11,13 @@ export const metadata: Metadata = {
   alternates: {
     canonical: '/',
   },
+  icons: {
+    icon: [
+      { url: '/favicon.png', type: 'image/png', sizes: '1254x1254' },
+    ],
+    shortcut: '/favicon.png',
+    apple: [{ url: '/favicon.png', sizes: '1254x1254', type: 'image/png' }],
+  },
   robots: {
     index: true,
     follow: true,
